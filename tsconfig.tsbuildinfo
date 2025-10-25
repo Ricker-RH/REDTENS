@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/realtime.ts","./src/pages/createroom.tsx","./src/pages/home.tsx","./src/pages/joinroom.tsx","./src/pages/lobby.tsx","./src/pages/table.tsx","./src/store/room.ts"],"version":"5.9.3"}
